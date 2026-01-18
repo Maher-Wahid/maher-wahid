@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 
-I am a 2nd year Computer Science student from Canada 🍁. When I am not occupied with coding or math assignments, I enjoy learning about web development 🕸️, the cloud ☁️, playing basketball 🏀 or badminton 🏸, and doing calisthenics 🤸‍♂️.
+I am a 2nd year Computer Science student from Canada 🍁. When I am not occupied with coding and math assignments, I enjoy learning about web development 🕸️, the cloud ☁️, playing basketball 🏀, playing badminton 🏸, and doing calisthenics 🤸‍♂️.
 
 <!--
 **Maher-Wahid/maher-wahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
