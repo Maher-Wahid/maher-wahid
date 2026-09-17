@@ -1,9 +1,9 @@
 ## Hi there 👋 I am Maher Wahid
 
-- I am a 2nd year Computer Science student from Canada 🍁
-- I’m currently working on improving my skills in React ⚙️ before moving onto SQL/NoSQL 📕
-- I enjoy learning about web development 🕸️ and the cloud ☁️
-- I like playing basketball 🏀 and badminton 🏸, and doing calisthenics 🤸‍♂️
+- I am a 3nd year Co-op Computer Science student from Canada 🍁
+- I’m currently working on improving my skills in React ⚙️ and SQL/NoSQL using Supabase 📕
+- I enjoy learning about web development 🕸️ and the Cloud ☁️
+- I like playing basketball 🏀 and badminton 🏸, doing calisthenics 🤸‍♂️, and baking 🧁
 
 <!--
 **Maher-Wahid/maher-wahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
